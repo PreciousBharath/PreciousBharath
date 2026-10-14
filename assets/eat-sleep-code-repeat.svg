@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#24243e;#302b63;#0f0c29" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#0f0c29;#24243e;#302b63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#302b63;#0f0c29;#24243e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="txt" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff6a00"/>
+      <stop offset="25%" stop-color="#ee0979"/>
+      <stop offset="50%" stop-color="#8E2DE2"/>
+      <stop offset="75%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#38ef7d"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6a00"/><stop offset="33%" stop-color="#ee0979"/>
+      <stop offset="66%" stop-color="#00c6ff"/><stop offset="100%" stop-color="#38ef7d"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .w{font-family:'Segoe UI Black','Arial Black','Trebuchet MS',Impact,sans-serif;font-weight:900;font-size:46px;letter-spacing:2px;fill:url(#txt)}
+      .e{font-family:'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif;font-size:40px}
+      .d{fill:#ffffff;opacity:.55;font-family:Arial,sans-serif;font-size:40px;font-weight:900}
+      .s{font-family:'Fira Code','Consolas','Courier New',monospace;font-size:20px;fill:#c9d1d9;letter-spacing:3px}
+      .g{animation:pop 8s infinite}
+      .g1{animation-delay:0s}.g2{animation-delay:.6s}.g3{animation-delay:1.2s}.g4{animation-delay:1.8s}
+      @keyframes pop{0%{opacity:.1}8%{opacity:1}100%{opacity:1}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .star{animation:tw 3s ease-in-out infinite}
+      @keyframes tw{0%,100%{opacity:.15}50%{opacity:.9}}
+    </style>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <g fill="#fff">
+    <circle class="star" cx="60" cy="40" r="2"/><circle class="star" cx="180" cy="210" r="1.5" style="animation-delay:1s"/>
+    <circle class="star" cx="1120" cy="50" r="2" style="animation-delay:.5s"/><circle class="star" cx="1010" cy="220" r="1.5" style="animation-delay:2s"/>
+    <circle class="star" cx="620" cy="25" r="1.5" style="animation-delay:1.5s"/><circle class="star" cx="420" cy="235" r="2" style="animation-delay:2.5s"/>
+  </g>
+  <text x="600" y="136" text-anchor="middle" filter="url(#glow)"><tspan class="e g g1">🍔</tspan><tspan class="w g g1" dx="10">EAT</tspan><tspan class="d g g1" dx="16">·</tspan><tspan class="e g g2" dx="16">😴</tspan><tspan class="w g g2" dx="10">SLEEP</tspan><tspan class="d g g2" dx="16">·</tspan><tspan class="e g g3" dx="16">💻</tspan><tspan class="w g g3" dx="10">CODE</tspan><tspan class="d g g3" dx="16">·</tspan><tspan class="e g g4" dx="16">🔁</tspan><tspan class="w g g4" dx="10">REPEAT</tspan></text>
+  <rect x="150" y="172" width="900" height="4" rx="2" fill="url(#line)"/>
+  <text class="s" x="600" y="215" text-anchor="middle">while(alive) { eat(); sleep(); code(); repeat(); }<tspan class="cur" fill="#38ef7d"> ▌</tspan></text>
+</svg>
