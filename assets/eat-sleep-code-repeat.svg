@@ -47,7 +47,7 @@
     <circle class="star" cx="1120" cy="50" r="2" style="animation-delay:.5s"/><circle class="star" cx="1010" cy="220" r="1.5" style="animation-delay:2s"/>
     <circle class="star" cx="620" cy="25" r="1.5" style="animation-delay:1.5s"/><circle class="star" cx="420" cy="235" r="2" style="animation-delay:2.5s"/>
   </g>
-  <text x="600" y="136" text-anchor="middle" filter="url(#glow)"><tspan class="e g g1">🍔</tspan><tspan class="w g g1" dx="10">EAT</tspan><tspan class="d g g1" dx="16">·</tspan><tspan class="e g g2" dx="16">😴</tspan><tspan class="w g g2" dx="10">SLEEP</tspan><tspan class="d g g2" dx="16">·</tspan><tspan class="e g g3" dx="16">💻</tspan><tspan class="w g g3" dx="10">CODE</tspan><tspan class="d g g3" dx="16">·</tspan><tspan class="e g g4" dx="16">🔁</tspan><tspan class="w g g4" dx="10">REPEAT</tspan></text>
+  <text x="600" y="136" text-anchor="middle" filter="url(#glow)"><tspan class="e g g1">🍔</tspan><tspan class="w g g1" dx="10">EAT</tspan><tspan class="d g g1" dx="16">·</tspan><tspan class="e g g2" dx="16">💻</tspan><tspan class="w g g2" dx="10">CODE</tspan><tspan class="d g g2" dx="16">·</tspan><tspan class="e g g3" dx="16">😴</tspan><tspan class="w g g3" dx="10">SLEEP</tspan><tspan class="d g g3" dx="16">·</tspan><tspan class="e g g4" dx="16">🔁</tspan><tspan class="w g g4" dx="10">REPEAT</tspan></text>
   <rect x="150" y="172" width="900" height="4" rx="2" fill="url(#line)"/>
-  <text class="s" x="600" y="215" text-anchor="middle">while(alive) { eat(); sleep(); code(); repeat(); }<tspan class="cur" fill="#38ef7d"> ▌</tspan></text>
+  <text class="s" x="600" y="215" text-anchor="middle">while(alive) { eat(); code(); sleep(); repeat(); }<tspan class="cur" fill="#38ef7d"> ▌</tspan></text>
 </svg>
