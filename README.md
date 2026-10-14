@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Bharath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%26%20GenAI%20Trainer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bharath&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Trainer&descAlignY=58&descSize=20" alt="header" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/connectbharath"><img src="https://img.shields.io/badge/LinkedIn-connectbharath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://itsbharathportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://github.com/PreciousBharath"><img src="https://img.shields.io/badge/GitHub-PreciousBharath-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PreciousBharath&style=for-the-badge&color=2C9BF0&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/PreciousBharath?style=for-the-badge&logo=github&label=Followers&color=2C9BF0" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ I deliver hands-on workshops, guest lectures and Faculty Development Programs (F
   <img src="https://streak-stats.demolab.com?user=PreciousBharath&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreciousBharath&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/2C9BF0/PreciousBharath" alt="contribution chart" width="95%" />
 </p>
 
 ---
