@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bharath&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Trainer&descAlignY=58&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bharath&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Project%20Engineer%20%7C%20Technical%20Trainer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9BF0&center=true&vCenter=true&width=650&lines=Building+AI%2FML+solutions+for+real-world+problems;Full-stack+web+apps+with+Python%2C+Django+%26+JavaScript;Training+students+%26+faculty+in+GenAI%2C+Cloud+%26+Blockchain;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9BF0&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Project+Engineer;Technical+Trainer+in+AI%2FML%2C+Deep+Learning+%26+GenAI;Python+Full+Stack+%7C+Frontend+Development;Data+Analysis+with+Power+BI+%26+Tableau;Cloud+%7C+Blockchain+%7C+Cybersecurity+%7C+Prompt+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,56 +22,75 @@
 
 ```python
 class Bharath:
-    role       = "Software Developer & AI/ML Trainer"
-    company    = "Pantech Solutions"
-    location   = "Madurai, Tamil Nadu, India"
-    focus      = ["Machine Learning", "Generative AI & LLMs", "Full-Stack Web", "Cloud"]
-    teaching   = ["Agentic AI", "GenAI & Prompt Engineering", "Power BI",
-                  "Cloud Computing", "Blockchain & Cryptography", "UI/UX", "JavaScript"]
-    open_to    = "Collaborations, workshops & AI/ML project mentoring"
+    role      = ["Software Developer", "Project Engineer", "Technical Trainer"]
+    company   = "Pantech Solutions"
+    location  = "Madurai, Tamil Nadu, India"
+
+    expertise = {
+        "AI & Data"   : ["Machine Learning", "Deep Learning", "Generative AI", "Prompt Engineering"],
+        "Data Science": ["Python", "NumPy", "Pandas", "Matplotlib", "Data Analysis"],
+        "BI Tools"    : ["Power BI", "Tableau"],
+        "Development" : ["Python Full Stack", "Frontend Development"],
+        "Emerging"    : ["Cloud Computing", "Blockchain", "Cybersecurity"],
+    }
 
     def motto(self):
         return "Learn it. Build it. Teach it."
 ```
 
-- 🤖 I build **ML & deep-learning projects** for healthcare, agriculture, cybersecurity and e-commerce
-- 🌐 I ship **full-stack web apps** with Python, Django, JavaScript and HTML/CSS
-- 🎓 I design and deliver **workshops & Faculty Development Programs** on AI, GenAI, Cloud and Blockchain
+- 💼 **Software Developer & Project Engineer** building AI/ML, data and full-stack solutions
+- 🎓 **Technical Trainer** for students and faculty across AI/ML, GenAI, Data Analysis, Cloud, Blockchain and Cybersecurity
+- 🤖 Built **ML & deep-learning projects** for healthcare, agriculture, cybersecurity and e-commerce
 - 📫 Reach me on **[LinkedIn](https://linkedin.com/in/connectbharath)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
-**Languages**
+**🤖 AI, Machine Learning & Deep Learning**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-**AI / ML & Data**
-<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-D00000?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-**Web, Cloud & Tools**
+**📊 Data Science, Analysis & BI**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
+**🌐 Python Full Stack & Frontend**
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**☁️ Cloud, Blockchain & Security**
+<p>
+  <img src="https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-B91C1C?style=flat-square&logo=letsencrypt&logoColor=white" />
+</p>
+
+**🧰 Tools & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -102,21 +121,26 @@ class Bharath:
 
 ---
 
-## 🎓 Workshops & Training
+## 🎓 Technical Trainer
+
+I train engineering students and faculty through hands-on workshops, guest lectures and Faculty Development Programs (FDPs) in:
 
 <p>
-  <img src="https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative_AI_%26_LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning_with_Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_Full_Stack-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend_Development-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud_Computing-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain_%26_Cryptography-121D33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF7262?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-B91C1C?style=for-the-badge" />
 </p>
 
-I deliver hands-on workshops, guest lectures and Faculty Development Programs (FDPs) for engineering colleges. Session decks and project material: **[ALL-WORKSHOPS-PPT-AND-PROJECTS](https://github.com/PreciousBharath/ALL-WORKSHOPS-PPT-AND-PROJECTS)**
+Session decks and project material: **[ALL-WORKSHOPS-PPT-AND-PROJECTS](https://github.com/PreciousBharath/ALL-WORKSHOPS-PPT-AND-PROJECTS)**
 
 ---
 
