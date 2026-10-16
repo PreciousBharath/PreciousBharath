@@ -100,6 +100,19 @@ class Bharath:
 
 ## 🚀 Featured Projects
 
+### 🌟 Flagship Projects
+| Project | Domain | Highlights |
+|---|---|---|
+| [🎯 TalentLens AI](https://github.com/PreciousBharath/AI-RESUME-SCREENER) | AI · NLP | Resume screening & job matching with explainable scores |
+| [📉 ChurnGuard ML](https://github.com/PreciousBharath/CUSTOMER-CHURN-PREDICTION-ML) | Machine Learning | Churn prediction — 3 models, ROC-AUC, what-if predictor |
+| [🫀 CardioNet](https://github.com/PreciousBharath/ECG-ARRHYTHMIA-DEEP-LEARNING) | Deep Learning | ECG arrhythmia detection with a deep neural network |
+| [🛒 RetailPulse](https://github.com/PreciousBharath/RETAIL-SALES-ANALYTICS-DASHBOARD) | Data Analysis | Power BI-style sales dashboard with auto insights |
+| [🧩 SegmentIQ](https://github.com/PreciousBharath/CUSTOMER-SEGMENTATION-RFM) | Data Science | RFM + K-Means customer segmentation |
+| [🧠 DocuMind](https://github.com/PreciousBharath/RAG-DOCUMENT-CHATBOT) | Generative AI | RAG chatbot — chat with PDFs, cited answers |
+| [✨ PromptCraft Lab](https://github.com/PreciousBharath/PROMPT-ENGINEERING-LAB) | Prompt Engineering | Prompt builder, quality scoring & A/B testing |
+| [⛓️ CertChain](https://github.com/PreciousBharath/BLOCKCHAIN-CERTIFICATE-VERIFICATION) | Blockchain | Tamper-proof certificates with PoW & Merkle trees |
+| [🛡️ SentinelNet](https://github.com/PreciousBharath/NETWORK-INTRUSION-DETECTION) | Cybersecurity | ML intrusion detection SOC dashboard |
+
 ### 🤖 AI / Machine Learning
 | Project | What it does | Stack |
 |---|---|---|
