@@ -100,6 +100,20 @@ class Bharath:
 
 ## 🚀 Featured Projects
 
+### 🔥 Full-Stack Web Apps <sub>(Flask · SQLite · Register/Login · Animated glassmorphism UI · Dark/Light)</sub>
+| App | Domain | What it does |
+|---|---|---|
+| [💸 FinSight AI](https://github.com/PreciousBharath/FINSIGHT-AI-EXPENSE-TRACKER) | ML · FinTech | Expense tracker with live AI categorisation, budgets, anomaly alerts & forecasts |
+| [🎯 FocusFlow](https://github.com/PreciousBharath/FOCUSFLOW-STUDY-PLANNER) | Productivity | Drag-and-drop Kanban, animated Pomodoro timer, streaks & heatmap |
+| [🛡️ PhishGuard X](https://github.com/PreciousBharath/PHISHGUARD-X-CYBER-ANALYZER) | Cybersecurity | Explainable URL & email phishing scanner + password security lab |
+| [🗳️ ChainVote](https://github.com/PreciousBharath/CHAINVOTE-BLOCKCHAIN-EVOTING) | Blockchain | Proof-of-work e-voting with anonymous ballots & live results |
+| [🎤 InterviewIQ](https://github.com/PreciousBharath/INTERVIEWIQ-AI-MOCK-INTERVIEW) | AI · NLP | Mock interviews with voice answers and instant NLP feedback |
+| [⚡ QuizArena Live](https://github.com/PreciousBharath/QUIZARENA-LIVE-MULTIPLAYER) | Real-time | Kahoot-style multiplayer quiz with PINs, live leaderboard & podium |
+| [🥗 NutriFit AI](https://github.com/PreciousBharath/NUTRIFIT-AI-HEALTH-TRACKER) | Health · Data | Calorie & macro targets, Indian food DB, weight forecasting |
+| [🧪 DataPilot](https://github.com/PreciousBharath/DATAPILOT-AUTOML-STUDIO) | Data Science | No-code CSV → EDA → AutoML leaderboard → live predictions |
+| [✨ PromptForge](https://github.com/PreciousBharath/PROMPTFORGE-PROMPT-LIBRARY) | GenAI · Prompts | Prompt templates, quality scoring, versions & LLM playground |
+| [🔐 CipherChat](https://github.com/PreciousBharath/CIPHERCHAT-E2E-ENCRYPTED-CHAT) | Cyber · Real-time | End-to-end encrypted group chat (AES-256-GCM in the browser) |
+
 ### 🌟 Flagship Projects
 | Project | Domain | Highlights |
 |---|---|---|
