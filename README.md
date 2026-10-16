@@ -3,12 +3,6 @@
   <img src="./assets/eat-sleep-code-repeat.svg" alt="🍔 EAT · 💻 CODE · 😴 SLEEP · 🔁 REPEAT" width="100%"/>
 </p>
 
-<h2 align="center">🍔 𝗘𝗔𝗧 &nbsp;·&nbsp; 💻 𝗖𝗢𝗗𝗘 &nbsp;·&nbsp; 😴 𝗦𝗟𝗘𝗘𝗣 &nbsp;·&nbsp; 🔁 𝗥𝗘𝗣𝗘𝗔𝗧</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=F75C7E&center=true&vCenter=true&width=760&lines=%F0%9F%8D%94+EAT;%F0%9F%92%BB+CODE;%F0%9F%98%B4+SLEEP;%F0%9F%94%81+REPEAT;%F0%9F%8D%94+EAT+%C2%B7+%F0%9F%92%BB+CODE+%C2%B7+%F0%9F%98%B4+SLEEP+%C2%B7+%F0%9F%94%81+REPEAT" alt="Typing: EAT CODE SLEEP REPEAT"/>
-</p>
-
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,50:8E2DE2,100:00C9FF&height=190&section=header&text=Bharath&fontSize=64&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Software%20Developer%20%7C%20Project%20Engineer%20%7C%20Technical%20Trainer&descAlignY=58&descSize=18" alt="header" />
